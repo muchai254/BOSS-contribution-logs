@@ -6,8 +6,8 @@ I created a PR that handled writing the BIP324 protocol separately. This PR was 
 2. Byte level granularity by introducing more buffers
 3. Ensuring safe transitions in case of errors
 
-https://github.com/RazorBest/bip324-mitm/issues/5
-https://github.com/RazorBest/bip324-mitm/pull/10
+- https://github.com/RazorBest/bip324-mitm/issues/5
+- https://github.com/RazorBest/bip324-mitm/pull/10
 
 # [bitcointranscripts](https://github.com/bitcointranscripts/bitcointranscripts)
 
