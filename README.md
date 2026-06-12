@@ -9,7 +9,7 @@ I created a PR that handled writing the BIP324 protocol separately. This PR was 
 - https://github.com/RazorBest/bip324-mitm/issues/5
 - https://github.com/RazorBest/bip324-mitm/pull/10
 
-# [bitcointranscripts](https://github.com/bitcointranscripts/bitcointranscripts)
+# [bitcointranscripts - Bitcoin Dev Project](https://github.com/bitcointranscripts/bitcointranscripts)
 
 A treasure trove of transcripts associated with Bitcoin and Lightning Network
 
@@ -23,8 +23,13 @@ All the transcripts I reviewed are in production and can be viewed by clicking t
 
 - [Bitcoin and Privacy Under Attack: Tornado Cash, Samourai Wallet and Fixing the Great Consensus Cleanup](https://btctranscripts.com/bitcoin-explained/the-great-consensus-cleanup-revival) - https://github.com/bitcointranscripts/bitcointranscripts/pull/653
 - [From Network Topology to Watchtowers: Sergi Delgado on Adversarial Research in Bitcoin and Lightning](https://btctranscripts.com/chaincode-podcast/watchtowers-lightning-privacy) - https://github.com/bitcointranscripts/bitcointranscripts/pull/652
+- [Bitcoin Core 26.0: What's New, Plus F2Pool's OFAC Transaction Filtering](https://github.com/bitcointranscripts/bitcointranscripts/pull/655)
 
 # [Arkade](https://github.com/arkade-os)
 A programmable execution layer for Bitcoin. It enables fast, self-custodial financial applications on Bitcoin, including lending, smart wallets, and trading, without changing the protocol or requiring trusted intermediaries.
 
-I am currently working to provide Rust alternatives to the [SDK demos for Arkade](https://github.com/arkade-os/demos). Stay tuned to see my work.
+I am currently working to provide Rust alternatives to the [SDK demos for Arkade](https://github.com/arkade-os/demos) - https://github.com/arkade-os/demos/issues/2
+
+- https://github.com/arkade-os/demos/pull/3
+- https://github.com/arkade-os/demos/pull/4
+
